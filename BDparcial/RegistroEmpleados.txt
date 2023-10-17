@@ -1,0 +1,10 @@
+ID: 18<br/>Nombre: Eliseo<br/>Apellido: Gonzalez<br/>Sector: Secretaria
+ID: 17<br/>Nombre: Eliseo<br/>Apellido: Ocano<br/>Sector: Cocina
+ID: 18<br/>Nombre: Eliseo<br/>Apellido: Gonzalez<br/>Sector: Secretaria
+ID: 19<br/>Nombre: eliseo<br/>Apellido: 123<br/>Sector: Cocina
+ID: 20<br/>Nombre: eliseo<br/>Apellido: 12000<br/>Sector: Cocina
+ID: 21<br/>Nombre: Jorge<br/>Apellido: Albornoz<br/>Sector: Cocina
+ID: 22<br/>Nombre: Bernabe<br/>Apellido: Guerrero<br/>Sector: Cocina
+ID: 22<br/>Nombre: Bernabe<br/>Apellido: Guerrero<br/>Sector: Cocina
+
+
